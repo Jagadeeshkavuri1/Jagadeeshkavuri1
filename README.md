@@ -34,7 +34,7 @@
 <br>
 <h2 align="center">📊 My Github stats:</h2>
 <div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=sivaganesh7&row=2&column=3&theme=radical&margin-w=2&margin-h=2&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Jagadeeshkavuri1&row=2&column=3&theme=radical&margin-w=2&margin-h=2&no-frame=true"/>
 </div>
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jagadeeshkavuri1&theme=radical" height="180em" alt="Stats"/>
