@@ -1,4 +1,4 @@
-<h1 align="center">Hi There👋, I'm jagadeesh kavuri</h1> 
+<h1 align="center">Hi👋, I'm jagadeesh kavuri</h1> 
 <h3 align="center">A passionate frontend developer and backend developer from India</h3>
 
 <!--
