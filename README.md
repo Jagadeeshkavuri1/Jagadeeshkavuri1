@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi There👋, I'm jagadeesh kavuri</h1> 
+<h3 align="center">A passionate frontend developer and backend developer from India</h3>
 
 <!--
 **Jagadeeshkavuri1/Jagadeeshkavuri1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
