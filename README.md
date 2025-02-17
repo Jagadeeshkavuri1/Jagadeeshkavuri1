@@ -52,10 +52,11 @@
 
 <div align="center">
   
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jagadeeshkavuri1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=jagadeeshkavuri1&limit=100&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
+
 
 <h2 align="center">🔗 Connect with me:</h2>
 <p align="center">
