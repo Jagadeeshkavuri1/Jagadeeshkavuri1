@@ -60,7 +60,12 @@
   <a href="mailto:jagadeeshkavuri3@gmail.com" target="_blank">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="mail" height="45" width="55" />
   </a>
-<!--
+ &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kavuri-jagadeesh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="linkedin" height="45" width="50" />
+  </a>
+</p>
+ <!--
 **Jagadeeshkavuri1/Jagadeeshkavuri1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
