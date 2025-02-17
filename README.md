@@ -1,5 +1,8 @@
 <h1 align="center">Hi👋, I'm jagadeesh kavuri</h1> 
-<h3 align="center">A passionate frontend developer and backend developer from India</h3>
+<h3 align="center">A passionate frontend developer and backend developer from India</h3> 
+<p align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Poppins&color=FFD700&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Web+Developer;App+Developer;Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="50"/>
+</p>
 
 <!--
 **Jagadeeshkavuri1/Jagadeeshkavuri1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
