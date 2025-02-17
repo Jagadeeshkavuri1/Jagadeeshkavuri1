@@ -46,7 +46,20 @@
 <br>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quote of the Day"/>
-</p>
+</p> 
+
+<div align="center">
+  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jagadeeshkavuri1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+<h2 align="center">🔗 Connect with me:</h2>
+<p align="center">
+  <a href="mailto:jagadeeshkavuri3@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="mail" height="45" width="55" />
+  </a>
 <!--
 **Jagadeeshkavuri1/Jagadeeshkavuri1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
